@@ -3,7 +3,7 @@ pwa-todolist-with-google-precache
 
 ## Getting Started
 ```
-git clone https://github.com/Ava-Chang/Blog_Practise.git
+git clone https://github.com/Ava-Chang/pwa-todolist-precache.git
 ```
 
 ```
